@@ -1,0 +1,19 @@
+{
+  "name": "imageslider",
+  "version": "1.0.0",
+  "description": "It is the image slider",
+  "main": "image_slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwa-i2it/imageSlider.git"
+  },
+  "author": "Vishwaeaswaran M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwa-i2it/imageSlider/issues"
+  },
+  "homepage": "https://github.com/vishwa-i2it/imageSlider#readme"
+}
